@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: myshield.christyldops.com
+  - host: vprofile.christyldops.com
     http:
       paths:
       - path: /
